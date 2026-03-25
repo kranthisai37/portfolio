@@ -64,7 +64,7 @@ GitHub
 </a>
 
 <a
-href="https://linkedin.com"
+href="https://linkedin.com/in/kranthi-sai-526344311"
 target="_blank"
 className="px-6 py-3 bg-white/5 backdrop-blur-lg border border-white/10 hover:bg-white/10 rounded-lg flex items-center gap-2 transition"
 >
