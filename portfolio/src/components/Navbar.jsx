@@ -60,7 +60,7 @@ className="hover:text-blue-400 transition"
 </a>
 
 <a
-href="https://linkedin.com"
+href="https://linkedin.com/in/kranthi-sai-526344311"
 target="_blank"
 className="hover:text-blue-400 transition"
 >
